@@ -1,6 +1,6 @@
 # Understanding "Democratization" in NLP and ML Research
 
-This repository is the official implementation of Understanding "Democratization" in NLP and ML Research.
+This repository is the official implementation of `Understanding "Democratization" in NLP and ML Research`.
 
 ## Requirements
 
